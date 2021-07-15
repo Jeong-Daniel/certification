@@ -12,4 +12,6 @@ my certification 수료증 모음
 
 ### Boostcourse
 1. [MIT]파이썬을 이용한 알고리즘의 이해 2021.07.03
+
 ### Coursera
+1. Introduction to Data Science in Python 2021.07.15
