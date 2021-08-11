@@ -4,6 +4,7 @@ Collection of My Certificates
 1. Pandas  May.13_2021
 2. Python  May.14_2021
 3. Geospatial Analysis July.26.2021
+4. Computer Vision Aug.11.2021
 
 ### Edwith
 1. 머신러닝, 딥러닝 입문(Machine Learning, Introduction to Deep Learning) 2021.02.27
