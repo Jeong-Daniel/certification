@@ -7,6 +7,7 @@ Collection of My Certificates
 4. Computer Vision Aug.11.2021
 5. Intro to Machine Learning Aug.31.2021
 6. Intro to Deep Learning Sep.3.2021
+7. Intermediate Machine Learning Sep.14.2021
 
 ### Edwith
 1. 머신러닝, 딥러닝 입문(Machine Learning, Introduction to Deep Learning) 2021.02.27
