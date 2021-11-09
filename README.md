@@ -23,3 +23,6 @@ Collection of My Certificates
 
 ### National Certificate
 1. ADsP(Advanced Data Analytics Semi-Professional)
+
+### Purdue University
+1. Purdue Pusan National Summer Program 2021 July-Agust 2021
