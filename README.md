@@ -8,6 +8,7 @@ Collection of My Certificates
 5. Intro to Machine Learning Aug.31.2021
 6. Intro to Deep Learning Sep.3.2021
 7. Intermediate Machine Learning Sep.14.2021
+8. Feature Engineering Nov.30.2021
 
 ### Edwith
 1. 머신러닝, 딥러닝 입문(Machine Learning, Introduction to Deep Learning) 2021.02.27
@@ -23,6 +24,7 @@ Collection of My Certificates
 
 ### National Certificate
 1. ADsP(Advanced Data Analytics Semi-Professional)
+2. Big data analysis Engineering
 
 ### Purdue University
 1. Purdue Pusan National Summer Program 2021 July-Agust 2021
