@@ -1,8 +1,8 @@
 Collection of My Certificates
 ---
 ### Kaggle
-1. Pandas  May.13_2021
-2. Python  May.14_2021
+1. Pandas  May.13.2021
+2. Python  May.14.2021
 3. Geospatial Analysis July.26.2021
 4. Computer Vision Aug.11.2021
 5. Intro to Machine Learning Aug.31.2021
