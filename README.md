@@ -26,6 +26,7 @@ Collection of My Certificates
 ### National Certificate
 1. ADsP(Advanced Data Analytics Semi-Professional)
 2. Big data analysis Engineering
+3. SQLD(SQL Developer)
 
 ### Purdue University
 1. Purdue Pusan National Summer Program 2021 July-Agust 2021
