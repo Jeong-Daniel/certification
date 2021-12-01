@@ -9,6 +9,7 @@ Collection of My Certificates
 6. Intro to Deep Learning Sep.3.2021
 7. Intermediate Machine Learning Sep.14.2021
 8. Feature Engineering Nov.30.2021
+9. Data Cleaning Dec.01.2021
 
 ### Edwith
 1. 머신러닝, 딥러닝 입문(Machine Learning, Introduction to Deep Learning) 2021.02.27
