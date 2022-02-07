@@ -24,8 +24,8 @@ Collection of My Certificates
 1. Introduction to Data Science in Python 2021.07.15
 
 ### National Certificate
-1. ADsP(Advanced Data Analytics Semi-Professional)
-2. Big data analysis Engineering
+1. ADsP(Advanced Data Analytics Semi-Professional) 빅데이터분석준전문가
+2. Big data analysis Engineering 빅데이터분석기사
 3. SQLD(SQL Developer)
 
 ### Purdue University
