@@ -27,7 +27,7 @@
 ### National Certificate
 1. ADsP(Advanced Data Analytics Semi-Professional) 빅데이터분석준전문가
 2. Big data analysis Engineering 빅데이터분석기사
-3. SQLD(SQL Developer)
+3. SQLD(SQL Developer) SQL 개발자
 
 ### Purdue University
 1. Purdue Pusan National Summer Program 2021 July-Agust 2021
