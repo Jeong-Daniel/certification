@@ -31,3 +31,7 @@
 
 ### Purdue University
 1. Purdue Pusan National Summer Program 2021 July-Agust 2021
+
+### ETC..
+1. 헌열 은장 (헌혈 30회)
+2. 부산대학교 학부생 2021년 최다 대출자상 (21년도 103권 대출)
