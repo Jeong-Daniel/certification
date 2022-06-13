@@ -29,10 +29,10 @@
 2. Big data analysis Engineering 빅데이터분석기사
 3. SQLD(SQL Developer) SQL 개발자
 
-### Purdue University
+### Pusan National University
 1. Purdue Pusan National Summer Program 2021 July-Agust 2021
+2. 부산대학교 학부생 2021년 최다 대출자상 (21년도 103권 대출)
+3. 부산대학교 소프트웨어교육센터 SW중심대학 마일스톤 장학생 선정
 
 ### ETC..
 1. 헌혈 은장 (헌혈 30회)
-2. 부산대학교 학부생 2021년 최다 대출자상 (21년도 103권 대출)
-3. 부산대학교 소프트웨어교육센터 SW중심대학 마일스톤 장학생 선정
