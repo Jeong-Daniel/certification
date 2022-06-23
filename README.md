@@ -35,5 +35,5 @@
 3. 부산대학교 소프트웨어교육센터 SW중심대학 마일스톤 장학생 선정
 
 ### ETC..
-1. 헌혈 은장 (30회) blood donations(30 tiems)
+1. 헌혈 은장 (30회) blood donations
 2. 조혈모세포 기증자
