@@ -33,6 +33,7 @@
 1. Purdue Pusan National Summer Program 2021 July-Agust 2021
 2. 부산대학교 학부생 2021년 최다 대출자상 (21년도 103권 대출)
 3. 부산대학교 소프트웨어교육센터 SW중심대학 마일스톤 장학생 선정
+4. 부산대학교 고용노동부 Project-based AI Big Data 수료
 
 ### Korean Red Cross 대한적십자사
 1. 헌혈 은장 (30회) blood donations(30 times)
