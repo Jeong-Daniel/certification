@@ -36,8 +36,8 @@
 4. 부산대학교 고용노동부 Project-based AI Big Data 수료
 
 ### Korean Red Cross 대한적십자사
-1. 헌혈 은장 (30회) blood donations(30 times)
-2. 헌혈 금장 (50회) blood donations(50 times)
+1. 헌혈 은장 (30회) blood donations Silver (30 times)
+2. 헌혈 금장 (50회) blood donations Gold (50 times)
 3. RCY 인증 활동 과정
 3. 조혈모세포 & 장기 기증자 등록
 4. 나눔히어로즈, ABO Friends 회원 
