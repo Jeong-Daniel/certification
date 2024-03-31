@@ -41,3 +41,6 @@
 3. RCY 인증 활동 과정
 3. 조혈모세포 & 장기 기증자 등록
 4. 나눔히어로즈, ABO Friends 회원 
+
+### NVIDIA
+1. Fundamentals of Deep Learning
